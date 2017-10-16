@@ -1,0 +1,5 @@
+And then you have a couple of options that are specifically related to stage events.  There's your on stage change and your on stage selected.  
+Your on stage changes are going to occur whenever the stage of a business process flow changes. 
+ So this could occur by a user clicking the next stage button or moving to the previous stage in that business process flow or programatically switching stages if you have 
+ code that is executing.  The on stage selected option occurs when the stage of a business process flow has actually been selected.  So these are some of the options that you 
+ have available from an event standpoint to be able to attach scripting to within Dynamics CRM. 

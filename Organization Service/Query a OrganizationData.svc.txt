@@ -1,0 +1,3 @@
+https://axxonconsulting6.crm2.dynamics.com/XRMServices/2011/OrganizationData.svc/new_alquilerSet?$filter=new_name%20eq%20%27Pikachu%27
+
+https://axxonconsulting6.crm2.dynamics.com/XRMServices/2011/OrganizationData.svc/new_alquilerSet?$filter=startswith(new_name,%27Pikachu%27)

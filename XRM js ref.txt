@@ -1,0 +1,3 @@
+https://msdn.microsoft.com/en-us/library/jj602964.aspx#BKMK_AccessingAttributes
+
+https://msdn.microsoft.com/en-us/library/gg327828.aspx
